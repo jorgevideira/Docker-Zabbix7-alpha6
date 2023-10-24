@@ -1,0 +1,9 @@
+version: '5.0'
+services:
+  zabbix:
+    container_name: zabbix
+    image: jlsborgesadm/zabbix-server-7-alpha6:1.2
+    restart: always
+    ports:
+      - "8080:80"
+    command: /root/init.sh
