@@ -1,6 +1,6 @@
 # README
 
-### Esse procedimento foi criado somente para fim de teste e conhecimento da nova versão do Zabbix 7 Alpha, não utilizar em produção.
+### Esse procedimento foi criado somente para fim de teste e conhecimento da nova versão do Zabbix 7 Alpha 6, não utilizar em produção.
 
 A imagem do container foi criada utilizando: 
 
